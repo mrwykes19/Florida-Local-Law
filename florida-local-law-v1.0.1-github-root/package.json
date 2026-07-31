@@ -1,0 +1,13 @@
+{
+  "name": "florida-local-law",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Mobile-first Florida local-government legal research PWA",
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^4.20.0"
+  }
+}
